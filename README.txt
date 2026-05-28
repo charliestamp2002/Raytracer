@@ -1,3 +1,5 @@
+This raytracer project is a project I did in Winter 2022 as part of my 2nd Year Computing Lab. Grade = 76%
+
 In order to run the 4 .py files (ray.py, OpticalElement.py, tests.py, and plots.py) as intended, run the ray.py file first. This has the ray class and the bundle class. The reason for the bundle class being in this file is because bundle inherits from the ray class. 
 
 After you have ran the ray.py file, run the OpticalElement.py file. 
